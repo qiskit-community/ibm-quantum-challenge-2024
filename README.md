@@ -2,7 +2,11 @@
 
 [![License](https://img.shields.io/github/license/qiskit-community/ibm-quantum-challenge-2024.svg)](https://opensource.org/licenses/Apache-2.0)<!--- long-description-skip-begin -->![Last updated](https://img.shields.io/github/last-commit/qiskit-community/ibm-quantum-challenge-2024/main?label=Last%20updated&style=flat)
 
-This year’s challenge starts on 5 June, and is about Qiskit SDK 1.0 and working toward utility-scale quantum experiments.
+This year’s challenge starts on 5 June, and is about Qiskit SDK 1.0 and working toward utility-scale quantum experiments. 
+
+## Registration
+
+Registration is open until the end of the challenge (14 June): https://challenges.quantum.ibm.com/2024
 
 ## Introduction
 
@@ -14,7 +18,7 @@ As with previous challenges, the 2024 IBM Quantum Challenge is tailored for anyo
 
 This year’s challenge will showcase the new features of Qiskit 1.0, while demonstrating the differences from previous versions. We hope it will help you better understand what it means to do utility-scale experiments with Qiskit — those with 100 or more qubits — and practice the steps to get there.
 
-This challenge is also an opportunity to get a sneak peek at some of the new cutting-edge features and developments in the quantum stack. That includes new integrations with AI — the Qiskit code assistant powered by IBM watsonx:tm:.
+This challenge is also an opportunity to get a sneak peek at some of the new cutting-edge features and developments in the quantum stack. That includes new integrations with AI — the Qiskit code assistant powered by IBM watsonx&trade;.
 
 ## Challenge content
 
