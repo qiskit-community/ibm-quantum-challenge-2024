@@ -27,7 +27,6 @@ This challenge is also an opportunity to get a sneak peek at some of the new cut
 - Lab 2
 - Lab 3
 - Lab 4
-- Lab 5
 
 ## [Event Code of Conduct](./CODE_OF_CONDUCT.md)
 
