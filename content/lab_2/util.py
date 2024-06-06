@@ -19,7 +19,7 @@ def transpile_scoring(circ, layout, backend):
         backend (IBMQBackend): An IBM Quantum backend instance
 
     Returns:
-        list: Tuples of layout and cost
+        float: Fidelity of circ
     """
 
     fid = 1
