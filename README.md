@@ -22,9 +22,9 @@ This challenge is also an opportunity to get a sneak peek at some of the new cut
 
 ## Challenge content
 
-- [Lab 0](./content/lab_0/lab-0.ipynb)
-- [Lab 1](./content/lab_1/lab-1.ipynb)
-- Lab 2
+- [Lab 0](./content/lab_0/)
+- [Lab 1](./content/lab_1/)
+- [Lab 2](./content/lab_2/)
 - Lab 3
 - Lab 4
 
