@@ -1,0 +1,4 @@
+# Enviorenment
+.venv
+.venv/
+dummy/*
