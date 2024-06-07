@@ -48,6 +48,7 @@ Brian Ingmanson,
 David Garcia, 
 David Kremer, 
 Haimeng Zhang, 
+Fabio Scafirimuto, 
 James Weaver, 
 Jennifer Glick, 
 Jessie Yu, 
@@ -183,6 +184,4 @@ Yi-Kai Lee,
 Zhixin(Jack) Song, 
 Zhiyong Zhang, 
 and Zina Efchary
-
-
 
