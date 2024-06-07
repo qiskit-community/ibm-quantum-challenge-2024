@@ -34,4 +34,33 @@ This challenge is also an opportunity to get a sneak peek at some of the new cut
 
 ## Collaborators
 
-Thank you! to everyone who helped make this challenge possible and a great success.
+Thank you to everyone who helped make this challenge possible and a great success.
+
+Abby Cross, 
+Abdón Rodríguez, 
+Annaliese Estes, 
+Astri Cornish, 
+Boseong Kim, 
+Brian Ingmanson, 
+James Weaver, 
+Joana Fraxanet Morales, 
+Junye Huang, 
+Kifumi Numata, 
+Marcel Pfaffhauser, 
+Maria Gragera Garces, 
+Natalie Taylor, 
+Pingal Nath, 
+Radha Pyari Sandhir, 
+Ryan Mandelbaum, 
+Sara Ayman Metwalli, 
+Serena Godwin, 
+Siddharth Golecha, 
+Sophy Shin, 
+Sumit Suresh Kale, 
+Tim Huynh, 
+Va Barbosa, 
+Vishal Bajpe, 
+and Yuri Kobayashi
+
+
+
