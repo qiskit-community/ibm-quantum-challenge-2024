@@ -1,4 +1,10 @@
+.DS_Store
+
 # Enviorenment
 .venv
 .venv/
 dummy/*
+
+# jupyter notebook
+__pycache__/
+.ipynb_checkpoints
