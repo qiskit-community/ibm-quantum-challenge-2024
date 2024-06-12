@@ -25,8 +25,8 @@ This challenge is also an opportunity to get a sneak peek at some of the new cut
 - [Lab 0](./content/lab_0/)
 - [Lab 1](./content/lab_1/)
 - [Lab 2](./content/lab_2/)
-- [Lab 3](./content/lab_3/))
-- [Lab 4](./content/lab_4/))
+- [Lab 3](./content/lab_3/)
+- [Lab 4](./content/lab_4/)
 - [Bonus Lab](./content/lab_bonus/)
 
 ## [Event Code of Conduct](./CODE_OF_CONDUCT.md)
