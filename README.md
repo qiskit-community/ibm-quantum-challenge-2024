@@ -22,11 +22,14 @@ This challenge is also an opportunity to get a sneak peek at some of the new cut
 
 ## Challenge content
 
-- [Lab 0](./content/lab_0/)
-- [Lab 1](./content/lab_1/)
-- [Lab 2](./content/lab_2/)
-- Lab 3
-- Lab 4
+|           | English                                        | Español                                  | 日本語                                   | 한국어                                   | Português brasileiro                         |
+|-----------|------------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|----------------------------------------------|
+| Lab 0     | [lab-0](content/lab_0/lab-0.ipynb)             | [lab-0-es](content/lab_0/lab-0-es.ipynb) | [lab-0-ja](content/lab_0/lab-0-ja.ipynb) | [lab-0-ko](content/lab_0/lab-0-ko.ipynb) | [lab-0-ptbr](content/lab_0/lab-0-ptbr.ipynb) |
+| Lab 1     | [lab-1](content/lab_1/lab-1.ipynb)             | [lab-1-es](content/lab_1/lab-1-es.ipynb) | [lab-1-ja](content/lab_1/lab-1-ja.ipynb) | [lab-1-ko](content/lab_1/lab-1-ko.ipynb) |                                              |
+| Lab 2     | [lab-2](content/lab_2/lab-2.ipynb)             | [lab-2-es](content/lab_2/lab-2-es.ipynb) | [lab-2-ja](content/lab_2/lab-2-ja.ipynb) | [lab-2-ko](content/lab_2/lab-2-ko.ipynb) |                                              |
+| Lab 3     | [lab-3](content/lab_3)                         |                                          | [lab-3-ja](content/lab_3/ja)             | [lab-3-ko](content/lab_3/ko/)            |                                              |
+| Lab 4     | [lab-4](content/lab_4/lab-4.ipynb)             |                                          | [lab-4-ja](content/lab_4/lab-4-ja.ipynb) |                                          |                                              |
+| Bonus Lab | [lab-bonus](content/lab_bonus/lab-bonus.ipynb) |                                          |                                          |                                          |                                              |
 
 ## [Event Code of Conduct](./CODE_OF_CONDUCT.md)
 
